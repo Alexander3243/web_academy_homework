@@ -1,0 +1,37 @@
+[
+  {
+    "login": "aa",
+    "password": "aa",
+    "id": 1
+  },
+  {
+    "login": "a",
+    "password": "a",
+    "id": 2
+  },
+  {
+    "login": "ss",
+    "password": "ss",
+    "id": 3
+  },
+  {
+    "login": "gfd",
+    "password": "dd",
+    "id": 4
+  },
+  {
+    "login": "df",
+    "password": "df",
+    "id": 5
+  },
+  {
+    "login": "ff",
+    "password": "ff",
+    "id": 6
+  },
+  {
+    "login": "asdf",
+    "password": "asdf",
+    "id": 7
+  }
+]
